@@ -1,0 +1,30 @@
+A Empresa XPTO possui diversos funcionários.  Cada funcionário possui um nome, um cargo e seu salário Base. 
+
+
+O cálculo do Salário líquido é:
+salário base - 13% de inss + 5%  se possuir cargo de chefia. 
+
+
+Cada funcionário recebe um bônus de 50 por filho até o limite de 3 filhos. 
+Vendedores recebem 3% do total de suas vendas. 
+Alguns cargos (Segurança, Professor) possuem um acréscimo de 3% de insalubridade. 
+O adicional noturno dobra a hora do funcionário. 
+A empresa paga 500 por quinquênio
+
+
+- A empresa precisa saber quanto gasta com o pagamento de todos  o salário; 
+- Imprima o nome do funcionário com maior salário;
+- Imprima o quanto a empresa gasta com quinquenio; 
+
+
+Passos para resolução OO:
+
+1 - Agrupar as Informações
+Empresa, funcionário
+
+2- Identificar as informações, atributos
+Tempo de casa do funcionário, quantidade de filhos, data de admissão, 
+
+3- Identificar os cálculos 
+Quinquênio, 
+
