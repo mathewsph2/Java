@@ -39,7 +39,27 @@ O padrão CamelCase:
   - Tem o mesmo nome de sua classe;
   - Armazenam valores iniciais para os campos;
   - Constumam receber valores de parâmetro externo para isso;
-  - 
+
+CONSTRUTOR:
+- Classe Java sempre terá construtor;
+- Se não tiver nenhum construtor o compilador Java irá inscluir um construtor vazio, sem parâmetro.
+
+
+VISIBILIDADE: 
+- Public;
+- Private;
+- Default;
+
+MÉTODOS DE ACESSO:
+- Get;
+- Set;
+
+
+
+
+
+
+
 
 
    
