@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Gerente
+comment1.params=
+comment1.target=Gerente()
+comment2.params=nome\ cpf\ idade\ sexo\ salario
+comment2.target=Gerente(java.lang.String,\ java.lang.String,\ int,\ char,\ double)
+numComments=3
